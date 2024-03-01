@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Halilcavus0
-- 👀 I’m interested in mobile programming and security
+- 👀 I am a second year computer engineering student.
+- 🌱I know some C, C++ and SQL.
+- 🌱I want to progress in artificial intelligence.
+
 - 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on With Baykar founded by Selçuk Bayraktar
+- 💞️ I’m looking to collaborate on Baykar founded by Selçuk Bayraktar
 - 📫 How to reach me i have a instagram account
 
 <!---
