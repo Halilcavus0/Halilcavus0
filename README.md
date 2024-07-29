@@ -4,8 +4,7 @@
 - 🌱I want to progress in artificial intelligence.
 
 - 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on Baykar founded by Selçuk Bayraktar
-- 📫 How to reach me i have a instagram account
+- 📫 How to reach me, i have a instagram and linkedin account.
 
 <!---
 Halilcavus0/Halilcavus0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
