@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Halilcavus0
 - 👀 I am a second year computer engineering student.
 - 🌱I know some C, C++ and SQL.
-- 🌱I want to progress in artificial intelligence.
-
 - 🌱 I’m currently learning coding 
 - 📫 How to reach me, i have a instagram and linkedin account.
 
