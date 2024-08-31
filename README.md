@@ -23,7 +23,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Halilcavus0/Halilcavus0/output/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Halilcavus0/halilcavus0/output/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9" />
   
   <br/><br/><br/>
 </div>
