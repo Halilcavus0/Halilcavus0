@@ -2,7 +2,7 @@ import qrcode
 
 code = qrcode.QRCode(
     version = 1,
-    box_size=100,
+    box_size=60,
     border=2
 )
 
